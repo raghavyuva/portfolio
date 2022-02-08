@@ -11,8 +11,6 @@
  It is a portfolio of mine which is being served at [raghavyuva.com](https://raghavyuva.com/), it's open source and 
  feel free to suggest changes by opening a new issue, or if you want to implement your own, feel free to fork this repo and create a pull request.
 
-![Screen Shot](src/static/screenshot1.png)
-
 ## Built With
 
 Whilst I am the main developer of this project, this project couldn't of even started without the help of these open source projects, special thanks to:
